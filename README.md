@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Al</h1>
-<h3 align="center">A</h3>
 
 - 🌱 I’m currently learning **Agentic Workflows**
 
@@ -7,7 +6,7 @@
 
 - 📫 How to reach me **alcobaalcides@gmail.com**
 
-- 📄 Know about my experiences [https://ruby-colossus-62f.notion.site/Alcides-Alcoba-Inciarte-1939a8ff79a980d9ba90e50408b2138a](https://ruby-colossus-62f.notion.site/Alcides-Alcoba-Inciarte-1939a8ff79a980d9ba90e50408b2138a)
+- 📄 Know about my experiences [bit.ly/4iVAOGt](bit.ly/4iVAOGt)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
