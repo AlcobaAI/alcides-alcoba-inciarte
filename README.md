@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **alcobaalcides@gmail.com**
 
-- 📄 Know about my experiences [bit.ly/4iVAOGt](bit.ly/4iVAOGt)
+- 📄 Know about my experiences [[bit.ly/4iVAOGt](bit.ly/4iVAOGt)](https://bit.ly/4iVAOGt)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
